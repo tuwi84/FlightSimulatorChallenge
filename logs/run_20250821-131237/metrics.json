@@ -1,0 +1,26 @@
+{
+  "hit": true,
+  "t_end": 20.49,
+  "min_dist": 1.975,
+  "guidance_source": "ue",
+  "mode_final": "CAPTURE",
+  "capture_dist": 8.0,
+  "rv": 1.0,
+  "rt": 1.0,
+  "speed_cap_xy": 16.0,
+  "speed_cap_z": 10.0,
+  "kp": 1.2,
+  "kd": 0.35,
+  "rel_kp": 2.0,
+  "rel_kd": 0.6,
+  "tau_max": 2.0,
+  "wind": [
+    1.0,
+    1.0,
+    0.0
+  ],
+  "noise_pos": 0.0,
+  "noise_vel": 0.0,
+  "run_dir": "C:\\WORK\\LendurAI\\Intercept\\logs\\run_20250821-131237",
+  "csv": "C:\\WORK\\LendurAI\\Intercept\\logs\\run_20250821-131237\\traj.csv"
+}

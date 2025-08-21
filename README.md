@@ -2,6 +2,8 @@
 
 <img width="1450" height="816" alt="image" src="https://github.com/user-attachments/assets/8bb2bdb6-0b4b-4809-a071-45b3b0c76cce" />
 
+[![Watch the video](https://youtu.be/Cawvy5rIuoU)
+
 This repo contains two Python tools that run against an Unreal (UE5) + AirSim build to demo single‑vehicle **intercept** against a moving **target**. Everything is **headless‑first** and scriptable so it fits both manual runs and CI/RL pipelines.
 
 # Why UE5 and AirSim
